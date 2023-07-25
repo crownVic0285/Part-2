@@ -3,6 +3,7 @@
     border-radius: 5px;
     margin: 20px 20%;
     padding: 20px;
+    background-color: lightskyblue;
 }
 
 .username,
@@ -11,3 +12,4 @@
     display: inline-block;
     margin: 0 10px;
 }
+
