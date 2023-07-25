@@ -1,4 +1,5 @@
 .tweet {
+    font-size: 15px;
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: 20px 20%;
@@ -6,10 +7,22 @@
     background-color: lightskyblue;
 }
 
-.username,
-.date {
-    color: #999;
+.username {
+    color: #333;
+    font-size: 23px;
+    font-weight: bold;
+    margin-bottom: 10px;
     display: inline-block;
-    margin: 0 10px;
 }
 
+.name {
+    font-weight: bold;
+    color: #999;
+    display: inline-block;
+}
+
+.date {
+    color: #ff0505;
+    font-size: 20px;
+    display: inline-block;
+}
